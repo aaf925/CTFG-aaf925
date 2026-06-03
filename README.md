@@ -47,5 +47,5 @@ Este proyecto requiere el asistente del TFG ejecutándose en el PC.
 Clonar ambos repositorios en la misma carpeta:
 
 ```bash
-git clone <url-repo-tfg> ../TFG
+git clone github.com/aaf925/TFG-aaf925 ../TFG
 ```
