@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Node / Expo
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+
+# Audio temporal
+*.wav
+
+# IDE
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,9 @@
+Flask>=3.0
+flask-cors>=4.0
+requests>=2.31
+faster-whisper>=1.0
+openwakeword>=0.4
+sounddevice>=0.4
+numpy>=1.24
+scipy>=1.11
+pyttsx3>=2.90
